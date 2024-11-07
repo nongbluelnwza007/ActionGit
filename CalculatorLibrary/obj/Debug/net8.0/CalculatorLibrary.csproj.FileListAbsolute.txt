@@ -1,0 +1,11 @@
+/Users/macbook/Documents/GitHub/CalculatorLibrary/CalculatorLibrary/bin/Debug/net8.0/CalculatorLibrary.deps.json
+/Users/macbook/Documents/GitHub/CalculatorLibrary/CalculatorLibrary/bin/Debug/net8.0/CalculatorLibrary.dll
+/Users/macbook/Documents/GitHub/CalculatorLibrary/CalculatorLibrary/bin/Debug/net8.0/CalculatorLibrary.pdb
+/Users/macbook/Documents/GitHub/CalculatorLibrary/CalculatorLibrary/obj/Debug/net8.0/CalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Documents/GitHub/CalculatorLibrary/CalculatorLibrary/obj/Debug/net8.0/CalculatorLibrary.AssemblyInfoInputs.cache
+/Users/macbook/Documents/GitHub/CalculatorLibrary/CalculatorLibrary/obj/Debug/net8.0/CalculatorLibrary.AssemblyInfo.cs
+/Users/macbook/Documents/GitHub/CalculatorLibrary/CalculatorLibrary/obj/Debug/net8.0/CalculatorLibrary.csproj.CoreCompileInputs.cache
+/Users/macbook/Documents/GitHub/CalculatorLibrary/CalculatorLibrary/obj/Debug/net8.0/CalculatorLibrary.dll
+/Users/macbook/Documents/GitHub/CalculatorLibrary/CalculatorLibrary/obj/Debug/net8.0/refint/CalculatorLibrary.dll
+/Users/macbook/Documents/GitHub/CalculatorLibrary/CalculatorLibrary/obj/Debug/net8.0/CalculatorLibrary.pdb
+/Users/macbook/Documents/GitHub/CalculatorLibrary/CalculatorLibrary/obj/Debug/net8.0/ref/CalculatorLibrary.dll
